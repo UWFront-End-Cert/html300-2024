@@ -19,8 +19,8 @@ Find (at least) __one__ example of transition-based animation that you want to i
 ### Requirements:
 - CSS Animation(s) present is based on transitioning properties, should look smooth
 - Use of Sass features (at least 1 mixin and variables)
-- Provided inspiration source/source code
-- Use of comments in HTML/CSS
+- Provided inspiration source/source code https://www.joshwcomeau.com
+- Use of comments in HTML/CSS 
 
 ### BONUS
 - Use BEM style naming in your HTML/CSS
